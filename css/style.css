@@ -34,7 +34,7 @@ header{
     float: left;
 }
 .header-two ul{
-    margin-left: 35px;
+    margin-left: 30px;
 }
 .header-two ul li{
     display: inline-block;
@@ -51,7 +51,7 @@ header{
     float: left;
 }
 .header-three ul{
-    margin-left: 45px;
+    margin-left: 40px;
 }
 .header-three ul li{
     display: inline-block;
